@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "flower_color",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Insect_on_flower",
+        "value": "Bee"
+      }
+    ],
+    "description": "Flower and the Bee",
+    "image": "ipfs://QmVZMpkud1v4LejTPtwQNhbLwgLVfCpfPQ9pFgPWqRd9W5",
+    "name": "Beautiful"
+  }
+  
